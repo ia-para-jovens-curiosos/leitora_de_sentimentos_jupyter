@@ -1,0 +1,6 @@
+# Necessario apenas para a celula opcional de "modo avancado" (comparacao com
+# uma IA profissional via Hugging Face). Os passos 1 a 5 usam so Python puro.
+transformers
+torch
+jupyterlab
+ipykernel
